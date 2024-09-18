@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\bin\Debug\net8.0\BaiTapIColorable.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\bin\Debug\net8.0\BaiTapIColorable.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\bin\Debug\net8.0\BaiTapIColorable.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\bin\Debug\net8.0\BaiTapIColorable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\bin\Debug\net8.0\BaiTapIColorable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\refint\BaiTapIColorable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\BaiTapIColorable.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapIColorable\obj\Debug\net8.0\ref\BaiTapIColorable.dll
